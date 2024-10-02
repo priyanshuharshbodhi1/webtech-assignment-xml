@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Anshit</name>
+        <rollno>22/11/EC/44</rollno>
+        <department>Computer Science</department>
+        <year>3</year>
+        <university>JNU</university>
+    </student>
+    <student>
+        <name>Aditya</name>
+        <rollno>22/11/EE/23</rollno>
+        <department>ECE</department>
+        <year>3</year>
+        <university>JNU</university>
+    </student>
+        <student>
+        <name>Satyam</name>
+        <rollno>22/11/EE/24</rollno>
+        <department>ECE</department>
+        <year>3</year>
+        <university>JNU</university>
+    </student>
+        <student>
+        <name>Priyanshu</name>
+        <rollno>22/11/EC/13</rollno>
+        <department>Computer Science</department>
+        <year>3</year>
+        <university>JNU</university>
+    </student>
+        <student>
+        <name>Zeno</name>
+        <rollno>22/11/EE/14</rollno>
+        <department>ECE</department>
+        <year>3</year>
+        <university>JNU</university>
+    </student>
+        <student>
+        <name>Prakhar</name>
+        <rollno>22/11/EC/22</rollno>
+        <department>Computer Science</department>
+        <year>3</year>
+        <university>JNU</university>
+    </student>
+</students>
